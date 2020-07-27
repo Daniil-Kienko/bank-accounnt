@@ -1,0 +1,32 @@
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #062b55;
+  height: 150px;
+}
+
+.section-conatiner {
+  display: flex;
+  justify-content: space-between;
+  width: 680px;
+}
+
+input {
+  border-radius: 5px;
+  width: 260px;
+  height: 40px;
+  text-align: center;
+  border: none;
+}
+
+button {
+  background-color: #3884ff;
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  color: #fff;
+  padding: 13px 65px;
+  border-radius: 5px;
+  border: none;
+}

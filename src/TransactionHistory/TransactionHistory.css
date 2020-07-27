@@ -1,0 +1,22 @@
+.history {
+  width: 940px;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #ebeef2;
+}
+
+tr {
+  height: 68px;
+}
+
+th {
+  color: #272727;
+  text-transform: uppercase;
+}
+
+td {
+  color: #5c6975;
+}
